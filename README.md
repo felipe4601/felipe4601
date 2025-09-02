@@ -1,5 +1,5 @@
 # Felipe Evaristo
-#### Desenvolvedor Full Stack com desenvolvimento de APIs com java spring boot, gerenciamnto de banco de dados com postgresSql, criação de páginas responsivas com Reactjs, e publicação das aplicações com AWS.
+#### Desenvolvedor Full Stack com desenvolvimento de APIs usando java spring boot, gerenciamento de banco de dados com postgresSql, criação de páginas responsivas com Reactjs, e publicação das aplicações com AWS.
 
 [![Linkiding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-evaristo-camargo-38b370256/)
 
